@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "IKI",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-02-21T04:34:13.090123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Iki Maska",
+      "artist": "Nina Hagen",
+      "has_synced": true,
+      "path": "select/01_Iki_Maska_Nina_Hagen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "İki Keklik",
+      "artist": "Erkan Oğur",
+      "has_synced": true,
+      "path": "select/02_İki_Keklik_Erkan_Oğur.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "İki Keklik",
+      "artist": "Erkan Ogur",
+      "has_synced": true,
+      "path": "select/03_İki_Keklik_Erkan_Ogur.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Koko de Iki wo Shite",
+      "artist": "eill",
+      "has_synced": true,
+      "path": "select/04_Koko_de_Iki_wo_Shite_eill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "İki Keklik",
+      "artist": "Jehan Barbur feat. Bağımız Var",
+      "has_synced": true,
+      "path": "select/05_İki_Keklik_Jehan_Barbur_feat._Bağımız_Var.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "İki Satır",
+      "artist": "Altay",
+      "has_synced": true,
+      "path": "select/06_İki_Satır_Altay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "İki Gözüm İki Bulut",
+      "artist": "Ebru Gündeş",
+      "has_synced": false,
+      "path": "select/07_İki_Gözüm_İki_Bulut_Ebru_Gündeş.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "İki Gözüm İki Bulut",
+      "artist": "Ebru Gündes",
+      "has_synced": false,
+      "path": "select/08_İki_Gözüm_İki_Bulut_Ebru_Gündes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "İki Lyricist",
+      "artist": "Fuat feat. Bayram C",
+      "has_synced": false,
+      "path": "select/09_İki_Lyricist_Fuat_feat._Bayram_C.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "İki Lyricist",
+      "artist": "Fuat",
+      "has_synced": false,
+      "path": "select/10_İki_Lyricist_Fuat.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "İki Eksik Bir Fazla",
+      "artist": "Allame feat. Kamufle",
+      "has_synced": true,
+      "path": "select/11_İki_Eksik_Bir_Fazla_Allame_feat._Kamufle.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "İki Eksik Bir Fazla",
+      "artist": "Allame",
+      "has_synced": true,
+      "path": "select/12_İki_Eksik_Bir_Fazla_Allame.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aşk İki Kişiliktir",
+      "artist": "Ezginin Günlüğü",
+      "has_synced": true,
+      "path": "select/13_Aşk_İki_Kişiliktir_Ezginin_Günlüğü.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "İki Büyük Nimetim Var",
+      "artist": "Neşet Ertaş",
+      "has_synced": true,
+      "path": "select/14_İki_Büyük_Nimetim_Var_Neşet_Ertaş.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "İki Büyük Nimetim Var",
+      "artist": "Neset Ertaş",
+      "has_synced": true,
+      "path": "select/15_İki_Büyük_Nimetim_Var_Neset_Ertaş.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "İki Dağın Arası",
+      "artist": "Yavuz Bingöl",
+      "has_synced": true,
+      "path": "select/16_İki_Dağın_Arası_Yavuz_Bingöl.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "İki Gözüm",
+      "artist": "Sezen Aksu",
+      "has_synced": true,
+      "path": "select/17_İki_Gözüm_Sezen_Aksu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IKI",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_IKI_メガテラ・ゼロ.txt"
+    }
+  ]
+}
